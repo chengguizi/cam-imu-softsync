@@ -1,0 +1,1 @@
+A library to perform software-based timestamp synchronisation between (V4L2) camera data streams and IMU data streams
